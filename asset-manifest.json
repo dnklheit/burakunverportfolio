@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.e2a3bb65.css",
-    "main.js": "/burakunverportfolio/static/js/main.623d3965.js",
+    "main.css": "/burakunverportfolio/static/css/main.bd5c0c8b.css",
+    "main.js": "/burakunverportfolio/static/js/main.f3050000.js",
     "index.html": "/burakunverportfolio/index.html",
-    "main.e2a3bb65.css.map": "/burakunverportfolio/static/css/main.e2a3bb65.css.map",
-    "main.623d3965.js.map": "/burakunverportfolio/static/js/main.623d3965.js.map"
+    "main.bd5c0c8b.css.map": "/burakunverportfolio/static/css/main.bd5c0c8b.css.map",
+    "main.f3050000.js.map": "/burakunverportfolio/static/js/main.f3050000.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a3bb65.css",
-    "static/js/main.623d3965.js"
+    "static/css/main.bd5c0c8b.css",
+    "static/js/main.f3050000.js"
   ]
 }
