@@ -1,0 +1,83 @@
+.list {
+    margin-top: 8px;
+    margin-bottom: 8px; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.position {
+    font-weight: 700;
+    font-size: 2rem;
+
+}
+
+.position a {
+    font-weight: 600;
+}
+
+.position span {
+    color: #ea4343;;
+}
+
+.ta {
+
+font-size: 1.4rem;
+ font-weight: 400;
+
+}
+
+.work {
+    font-size: 23px;
+    width: full;
+    font-weight: 500;
+}
+
+
+.experience {
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+.title {
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 32px;
+    width: full;
+    text-align: center;
+
+}
+
+
+.details {
+    width: 2/4;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+
+}
+
+.left {
+    border-left: 4px solid black;
+    height: 500px;
+    left: 20rem;
+    position: absolute;
+    top: 0;
+    transform-origin: top;
+
+
+}
+.details ul {
+    width: full;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    margin-left: 4px;
+
+}

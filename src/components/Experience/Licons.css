@@ -1,0 +1,35 @@
+.icons {
+    position: absolute;
+    margin-bottom: 7rem;
+    left: 16.5rem;
+    stroke: black ;
+}
+
+.circle1 {
+    stroke: 5px solid black;
+    fill: none;
+
+}
+
+.circle2 {
+    stroke: 6px;
+    fill: #f9f9f9;
+
+}
+
+.circle3 {
+    animation: pulse;
+    stroke: px solid black;
+    fill: #d8bb3d;
+
+}
+
+@keyframes animatedCircle {
+    0% {
+        transform: rotate(0);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
