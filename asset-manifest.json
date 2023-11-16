@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.e2e75567.css",
+    "main.css": "/burakunverportfolio/static/css/main.2727bad9.css",
     "main.js": "/burakunverportfolio/static/js/main.8b711a76.js",
     "static/media/logo.png": "/burakunverportfolio/static/media/logo.6e952fe4cdd3aedfd311.png",
     "static/media/Ford_logo_flat.svg.png": "/burakunverportfolio/static/media/Ford_logo_flat.svg.99f7c5ae2a4325130e36.png",
@@ -12,11 +12,11 @@
     "static/media/itu-bg.png": "/burakunverportfolio/static/media/itu-bg.013d3d0af29303d5891a.png",
     "static/media/skills6-cropped.svg": "/burakunverportfolio/static/media/skills6-cropped.08444bf69e0131354983049978454cd9.svg",
     "index.html": "/burakunverportfolio/index.html",
-    "main.e2e75567.css.map": "/burakunverportfolio/static/css/main.e2e75567.css.map",
+    "main.2727bad9.css.map": "/burakunverportfolio/static/css/main.2727bad9.css.map",
     "main.8b711a76.js.map": "/burakunverportfolio/static/js/main.8b711a76.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2e75567.css",
+    "static/css/main.2727bad9.css",
     "static/js/main.8b711a76.js"
   ]
 }
