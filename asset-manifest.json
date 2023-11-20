@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.b7ffd5df.css",
+    "main.css": "/burakunverportfolio/static/css/main.5fe7318d.css",
     "main.js": "/burakunverportfolio/static/js/main.d9590718.js",
     "static/media/logo.png": "/burakunverportfolio/static/media/logo.6e952fe4cdd3aedfd311.png",
     "static/media/Ford_logo_flat.svg.png": "/burakunverportfolio/static/media/Ford_logo_flat.svg.99f7c5ae2a4325130e36.png",
@@ -12,11 +12,11 @@
     "static/media/bilektech-logo.png": "/burakunverportfolio/static/media/bilektech-logo.92e0c7a65f10e5e11aae.png",
     "static/media/skills6-cropped.svg": "/burakunverportfolio/static/media/skills6-cropped.08444bf69e0131354983049978454cd9.svg",
     "index.html": "/burakunverportfolio/index.html",
-    "main.b7ffd5df.css.map": "/burakunverportfolio/static/css/main.b7ffd5df.css.map",
+    "main.5fe7318d.css.map": "/burakunverportfolio/static/css/main.5fe7318d.css.map",
     "main.d9590718.js.map": "/burakunverportfolio/static/js/main.d9590718.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7ffd5df.css",
+    "static/css/main.5fe7318d.css",
     "static/js/main.d9590718.js"
   ]
 }
