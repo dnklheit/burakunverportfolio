@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.5f19d663.css",
-    "main.js": "/burakunverportfolio/static/js/main.45118a99.js",
+    "main.css": "/burakunverportfolio/static/css/main.6cfa0bd4.css",
+    "main.js": "/burakunverportfolio/static/js/main.9e946386.js",
     "static/media/logo.png": "/burakunverportfolio/static/media/logo.6e952fe4cdd3aedfd311.png",
     "static/media/Ford_logo_flat.svg.png": "/burakunverportfolio/static/media/Ford_logo_flat.svg.99f7c5ae2a4325130e36.png",
     "static/media/estu-bg.png": "/burakunverportfolio/static/media/estu-bg.16fc5d827996a2c90b14.png",
     "static/media/1200px-Hoover_Logo.svg.png": "/burakunverportfolio/static/media/1200px-Hoover_Logo.svg.9017c6a764b5567593fe.png",
+    "static/media/itu-logo.png": "/burakunverportfolio/static/media/itu-logo.071a6e0f26f290a88c11.png",
     "static/media/au-bg.png": "/burakunverportfolio/static/media/au-bg.d0b7eaa62e271b1916bd.png",
     "static/media/agh-bg.png": "/burakunverportfolio/static/media/agh-bg.82556c0cb428bdbd527e.png",
     "static/media/bilektech-logo.png": "/burakunverportfolio/static/media/bilektech-logo.92e0c7a65f10e5e11aae.png",
-    "static/media/itu-bg.png": "/burakunverportfolio/static/media/itu-bg.013d3d0af29303d5891a.png",
     "static/media/skills6-cropped.svg": "/burakunverportfolio/static/media/skills6-cropped.08444bf69e0131354983049978454cd9.svg",
     "index.html": "/burakunverportfolio/index.html",
-    "main.5f19d663.css.map": "/burakunverportfolio/static/css/main.5f19d663.css.map",
-    "main.45118a99.js.map": "/burakunverportfolio/static/js/main.45118a99.js.map"
+    "main.6cfa0bd4.css.map": "/burakunverportfolio/static/css/main.6cfa0bd4.css.map",
+    "main.9e946386.js.map": "/burakunverportfolio/static/js/main.9e946386.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f19d663.css",
-    "static/js/main.45118a99.js"
+    "static/css/main.6cfa0bd4.css",
+    "static/js/main.9e946386.js"
   ]
 }
