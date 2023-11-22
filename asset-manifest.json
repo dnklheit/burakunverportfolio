@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.f9867c4b.css",
-    "main.js": "/burakunverportfolio/static/js/main.3ff6c374.js",
+    "main.css": "/burakunverportfolio/static/css/main.c05a9b89.css",
+    "main.js": "/burakunverportfolio/static/js/main.8644af62.js",
     "static/media/Ford_logo_flat.svg.png": "/burakunverportfolio/static/media/Ford_logo_flat.svg.99f7c5ae2a4325130e36.png",
     "static/media/1200px-Hoover_Logo.svg.png": "/burakunverportfolio/static/media/1200px-Hoover_Logo.svg.9017c6a764b5567593fe.png",
     "static/media/ibm-logo.jpg": "/burakunverportfolio/static/media/ibm-logo.a6e6f26f03f501d4048c.jpg",
     "static/media/itu-logo.png": "/burakunverportfolio/static/media/itu-logo.77c842e8207526f578f5.png",
-    "static/media/agh-bg.png": "/burakunverportfolio/static/media/agh-bg.b51cddda90ea22ad76af.png",
+    "static/media/agh-bg.png": "/burakunverportfolio/static/media/agh-bg.8ee75ea402206024ab25.png",
     "static/media/au-logo.png": "/burakunverportfolio/static/media/au-logo.b1cb1249f361d10eb639.png",
     "static/media/bilektech-logo.png": "/burakunverportfolio/static/media/bilektech-logo.384bce84a098f690c957.png",
     "static/media/softskills.svg": "/burakunverportfolio/static/media/softskills.70027dee6f86a576befdc497c52dabf5.svg",
     "index.html": "/burakunverportfolio/index.html",
-    "main.f9867c4b.css.map": "/burakunverportfolio/static/css/main.f9867c4b.css.map",
-    "main.3ff6c374.js.map": "/burakunverportfolio/static/js/main.3ff6c374.js.map"
+    "main.c05a9b89.css.map": "/burakunverportfolio/static/css/main.c05a9b89.css.map",
+    "main.8644af62.js.map": "/burakunverportfolio/static/js/main.8644af62.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9867c4b.css",
-    "static/js/main.3ff6c374.js"
+    "static/css/main.c05a9b89.css",
+    "static/js/main.8644af62.js"
   ]
 }
