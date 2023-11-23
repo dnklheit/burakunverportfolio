@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/burakunverportfolio/static/css/main.4dcf57c1.css",
-    "main.js": "/burakunverportfolio/static/js/main.b64b82b3.js",
+    "main.css": "/burakunverportfolio/static/css/main.24f20b52.css",
+    "main.js": "/burakunverportfolio/static/js/main.e940d90e.js",
     "static/media/Ford_logo_flat.svg.png": "/burakunverportfolio/static/media/Ford_logo_flat.svg.99f7c5ae2a4325130e36.png",
     "static/media/1200px-Hoover_Logo.svg.png": "/burakunverportfolio/static/media/1200px-Hoover_Logo.svg.9017c6a764b5567593fe.png",
     "static/media/ibm-logo.jpg": "/burakunverportfolio/static/media/ibm-logo.a6e6f26f03f501d4048c.jpg",
@@ -11,11 +11,11 @@
     "static/media/bilektech-logo.png": "/burakunverportfolio/static/media/bilektech-logo.384bce84a098f690c957.png",
     "static/media/softskills.svg": "/burakunverportfolio/static/media/softskills.70027dee6f86a576befdc497c52dabf5.svg",
     "index.html": "/burakunverportfolio/index.html",
-    "main.4dcf57c1.css.map": "/burakunverportfolio/static/css/main.4dcf57c1.css.map",
-    "main.b64b82b3.js.map": "/burakunverportfolio/static/js/main.b64b82b3.js.map"
+    "main.24f20b52.css.map": "/burakunverportfolio/static/css/main.24f20b52.css.map",
+    "main.e940d90e.js.map": "/burakunverportfolio/static/js/main.e940d90e.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dcf57c1.css",
-    "static/js/main.b64b82b3.js"
+    "static/css/main.24f20b52.css",
+    "static/js/main.e940d90e.js"
   ]
 }
